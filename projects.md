@@ -1,6 +1,7 @@
 ## My development projects
 
 ### GrowHAT
+| --- | --- |
 |**Source Code**| my MBP |
 |**Online Repo**| GitHub |
 |**Project Management**| Jira |
