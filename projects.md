@@ -1,97 +1,73 @@
 ## My development projects
 
-### GrowHAT
-| --- | --- |
-|**Source Code**| my MBP |
-|**Online Repo**| GitHub |
-|**Project Management**| Jira |
-|**Purpose**| to measure and report moisture levels in houseplants |
-|**Technical Overview**| python code, systemd service to show level on the built-in display|
-
-### aws-toys
-**Source Code**: my MBP
-**Online Repo**: GitHub
-**Project Management**: Jira
-**Purpose**:
-**Technical Overview**:
-
-
-### beefcalc
-**Source Code**: my MBP
-**Online Repo**: GitHub
-**Project Management**: Jira
-**Purpose**:
-**Technical Overview**:
-
-
-### ec2-spotprices
-**Source Code**: my MBP
-**Online Repo**: GitHub
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
-
-
-### energy-stats
-**Source Code**: my MBP
-**Online Repo**: Azure DevOps
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
-
-
-### hello-flask
-**Source Code**: my MBP
-**Online Repo**: 
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
-
+### weather station
+**Online Repo**: BitBucket <br>
+**Project Management**: Jira <br>
+**Purpose**: <br>
+**Technical Overview**: <br>
 
 ### manage-pi
-**Source Code**: my MBP
-**Online Repo**: GitHub
-**Project Management**: GitHub
-**Purpose**:
-**Technical Overview**:
+**Online Repo**: GitHub <br>
+**Project Management**: GitHub <br>
+**Purpose**: <br>
+**Technical Overview**: <br>
 
+### GrowHAT
+**Online Repo**: GitHub <br>
+**Project Management**: Jira <br>
+**Purpose**: to measure and report moisture levels in houseplants <br>
+**Technical Overview**: python code, systemd service to show level on the built-in display <br>
 
 ### marekwolski.github.io
-**Source Code**: my MBP
-**Online Repo**: 
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
+**Online Repo**: GitHub <br>
+**Project Management**: <br>
+**Purpose**: My personal web site, hosted by GitHub Pages.<br>
+**Technical Overview**: <br>
 
+### energy-stats
+**Online Repo**: Azure DevOps <br>
+**Project Management**: <br>
+**Purpose**: <br>
+**Technical Overview**: <br>
+
+### beefcalc
+**Online Repo**: GitHub <br>
+**Project Management**: Jira <br>
+**Purpose**: To calculate the cooking timings for a beef joint<br>
+**Technical Overview**: <br>
+
+### ec2-spotprices
+**Online Repo**: GitHub <br>
+**Project Management**: <br>
+**Purpose**: <br>
+**Technical Overview**: <br>
+
+### aws-toys
+**Online Repo**: GitHub <br>
+**Project Management**: Jira <br>
+**Purpose**: <br>
+**Technical Overview**: <br>
+
+### hello-flask
+**Online Repo**: GitHub <br>
+**Project Management**: <br>
+**Purpose**: Learning how to use Flask for web applications.<br>
+**Technical Overview**: <br>
 
 ### netcheck
-**Source Code**: my MBP
-**Online Repo**: 
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
-
+**Online Repo**: <br>
+**Project Management**: <br> 
+**Purpose**: To check the network availability of home devices.<br>
+**Technical Overview**: <br>
 
 ### scratchgo
-**Source Code**: my MBP
-**Online Repo**: 
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
-
+**Online Repo**: GitHub <br>
+**Project Management**: <br> 
+**Purpose**: Early steps and simple spikes to learn Go.<br>
+**Technical Overview**: <br>
 
 ### scratchpython
-**Source Code**: my MBP
-**Online Repo**: GitHub
-**Project Management**: 
-**Purpose**:
-**Technical Overview**:
-
-
-### weather
-**Source Code**: my MBP
-**Online Repo**: BitBucket
-**Project Management**: Jira
-**Purpose**:
-**Technical Overview**:
-
+**Online Repo**: GitHub <br>
+**Project Management**:  <br>
+**Purpose**:  Early steps and simple spikes to learn Python. <br>
+**Technical Overview**: <br>
