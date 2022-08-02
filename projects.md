@@ -1,11 +1,11 @@
 ## My development projects
 
 ### GrowHAT
-**Source Code**: my MBP
-**Online Repo**: GitHub
-**Project Management**: Jira
-**Purpose**:
-**Technical Overview**:
+|**Source Code**| my MBP |
+|**Online Repo**| GitHub |
+|**Project Management**| Jira |
+|**Purpose**| to measure and report moisture levels in houseplants |
+|**Technical Overview**| python code, systemd service to show level on the built-in display|
 
 ### aws-toys
 **Source Code**: my MBP
