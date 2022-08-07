@@ -1,4 +1,10 @@
-## My development projects
+---
+layout: post
+title: "Marek's Home Development Projects"
+date: 2022-08-07
+---
+
+## {{ page.title }}
 
 ### weather station
 **Online Repo**: BitBucket <br>

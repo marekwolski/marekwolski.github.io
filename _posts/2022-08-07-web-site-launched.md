@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marek Wolski launches a GitHub Pages Site"
+title: "Marek launches a GitHub Pages Site"
 date: 2022-08-07
 ---
 
