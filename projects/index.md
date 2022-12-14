@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marek's Home Development Projects"
-date: 2022-08-07
+date: 2022-12-14
 ---
 
 # {{ page.title }}
