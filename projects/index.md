@@ -4,7 +4,9 @@ title: "Marek's Home Development Projects"
 date: 2022-08-07
 ---
 
-## {{ page.title }}
+# {{ page.title }}
+
+I have a few personal software projects on the go at the moment. These are just for my own learning and amusement.
 
 ### weather station
 **Online Repo**: BitBucket <br>
