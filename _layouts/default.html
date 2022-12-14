@@ -9,20 +9,31 @@
 	<nav>
 		<ul>
 			<li><a href="/">Home</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/projects">Projects</a></li>
 			<li><a href="/about">About</a></li>
 			<li><a href="/cv">CV</a></li>
-			<li><a href="/projects">Projects</a></li>
-			<li><a href="/blog">Blog</a></li>
 		</ul>
 	</nav>
-	<div class="container">
+
+    <div class="topnav">
+        <a class="active" href="/">Home</a>
+        <a href="/blog">Blog</a>
+        <a href="/projects">Projects</a>
+        <div class="topnav-right">
+          <a href="/cv">CV</a>
+          <a href="/about">About</a>
+        </div>
+      </div> 
+
+
+    <div class="container">
 
         {{ content }}
 
     </div><!-- /.container -->
     <footer>
         <ul>
-            <!-- <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li> -->
             <li><a href="https://github.com/marekwolski">github.com/marekwolski</a></li>
             <br><br>
             <li>Hosted using GitHub Pages</li>
